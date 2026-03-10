@@ -1,0 +1,17 @@
+.git
+.gitignore
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.env
+node_modules
+outputs
+tmp
+models
+*.jpg
+*.png
+*.zip
+*.tar
+*.pt
+*.pth
